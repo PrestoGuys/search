@@ -9,7 +9,35 @@
             "Search Engine",
             "Search",
             "Engine",
-            "Google"
+            "Google",
+            "Alphabet"
+        ]
+    },
+    {
+        "id": 2,
+        "type": "link",
+        "name": "DuckDuckGo",
+        "link": "https://duckduckgo.com",
+        "description": "A private Search Engine, started in 2008",
+        "related_terms": [
+            "Search Engine",
+            "Search",
+            "Engine",
+            "DuckDuckGo"
+        ]
+    },
+    {
+        "id": 3,
+        "type": "link",
+        "name": "Bing",
+        "link": "https://bing.com",
+        "description": "A Search Engine made by Microsoft, started in 2009",
+        "related_terms": [
+            "Search Engine",
+            "Search",
+            "Engine",
+            "Bing",
+            "Microsoft"
         ]
     }
 ]
