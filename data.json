@@ -18,7 +18,7 @@
         "type": "link",
         "name": "DuckDuckGo",
         "link": "https://duckduckgo.com",
-        "description": "A private Search Engine, started in 2008",
+        "description": "The Internet privacy company that empowers you to seamlessly take control of your personal information online, without any tradeoffs.",
         "related_terms": [
             "Search Engine",
             "Search",
@@ -31,13 +31,31 @@
         "type": "link",
         "name": "Bing",
         "link": "https://bing.com",
-        "description": "A Search Engine made by Microsoft, started in 2009",
+        "description": "Search with Microsoft Bing and use the power of AI to find information, explore webpages, images, videos, maps, and more. A smart search engine for the forever curious.",
         "related_terms": [
             "Search Engine",
             "Search",
             "Engine",
             "Bing",
             "Microsoft"
+        ]
+    },
+    {
+        "id": 4,
+        "type": "link",
+        "name": "Debian",
+        "link": "https://debian.org",
+        "description": "Search with Microsoft Bing and use the power of AI to find information, explore webpages, images, videos, maps, and more. A smart search engine for the forever curious.",
+        "related_terms": [
+            "Linux",
+            "Debian",
+            "OS",
+            "System",
+            "Server",
+            "Operating",
+            "Operating System",
+            "Free",
+            "GNU"
         ]
     }
 ]
